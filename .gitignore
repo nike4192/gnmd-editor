@@ -1,7 +1,15 @@
 .DS_Store
 node_modules
 /dist
+dist
+out
+*.log*
+dist_electron
 
+.idea
+.vscode
+build
+.env
 
 # local env files
 .env.local
